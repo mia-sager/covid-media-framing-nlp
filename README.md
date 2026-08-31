@@ -6,7 +6,7 @@ This project analyzes more than **42,000 COVID-19-related news headlines** from 
 
 The analysis compares liberal and conservative news coverage, tracks changes in language throughout the COVID-19 pandemic, and examines how broader vaccine-related media coverage changed before and after the pandemic.
 
-This project was completed for **QTM 340: Data Science of Text at Emory University**.
+This project was completed with Molly Murphy for **QTM 340: Data Science of Text at Emory University**.
 
 ---
 
