@@ -141,3 +141,41 @@ covid-media-framing-nlp/
 │   └── Sager_Murphy_Final_Report.pdf
 │
 └── requirements.txt
+```
+
+---
+
+## Running the Analysis
+
+The complete analysis is available in:
+
+[`notebooks/covid_media_framing_analysis.ipynb`](notebooks/covid_media_framing_analysis.ipynb)
+
+The notebook uses the processed datasets stored in the [`data/`](data/) directory.
+
+To install the required Python packages:
+
+```bash
+pip install -r requirements.txt
+```
+---
+
+## Limitations
+
+This analysis uses **news headlines rather than full articles**, which limits the amount of contextual information available.
+
+The selected publications represent only a subset of the broader U.S. media landscape, and keyword-based filtering may exclude relevant coverage.
+
+The results should therefore be interpreted as evidence of patterns in media framing rather than definitive measures of ideological bias.
+
+---
+
+## Collaboration
+
+This project was completed by **Mia Sager and Molly Murphy** as part of QTM 340 at Emory University.
+
+---
+
+## Full Report
+
+The full research paper, including methodology, results, references, and additional figures, is available in the [`report/`](report/) folder.
